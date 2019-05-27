@@ -16,3 +16,7 @@ branchbranch
 new new new
 new new new
 new new new
+
+non fast-forward
+non fast-forward
+non fast-forward
