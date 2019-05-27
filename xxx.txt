@@ -20,3 +20,8 @@ new new new
 non fast-forward
 non fast-forward
 non fast-forward
+
+
+conflict conflict 
+conflict conflict 
+conflict conflict 
